@@ -4,10 +4,10 @@ package comm.pawn.mvptestdemo.presenter;
 import android.os.Handler;
 
 import comm.pawn.mvptestdemo.bean.User;
-import comm.pawn.mvptestdemo.biz.IUserBiz;
-import comm.pawn.mvptestdemo.biz.OnLoginListener;
-import comm.pawn.mvptestdemo.biz.UserBiz;
-import comm.pawn.mvptestdemo.view.IUserLoginView;
+import comm.pawn.mvptestdemo.helper.LoginHelper;
+import comm.pawn.mvptestdemo.helper.OnLoginListener;
+import comm.pawn.mvptestdemo.helper.UserHelper;
+import comm.pawn.mvptestdemo.view.UserLoginView;
 
 /**
  * Created by vcube on 2017/3/23.
@@ -15,14 +15,14 @@ import comm.pawn.mvptestdemo.view.IUserLoginView;
 
 public class UserLoginPresenter {
 
-    private IUserBiz userBiz;
-    private IUserLoginView userLoginView;
+    private LoginHelper userBiz;
+    private UserLoginView userLoginView;
 
     private Handler handler = new Handler();
 
-    public UserLoginPresenter(IUserLoginView userLoginView){
+    public UserLoginPresenter(UserLoginView userLoginView){
         this.userLoginView = userLoginView;
-        this.userBiz = new UserBiz();
+        this.userBiz = new UserHelper();
     }
 
     public void login(){

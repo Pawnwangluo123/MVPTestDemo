@@ -7,7 +7,7 @@ import comm.pawn.mvptestdemo.bean.User;
  * Created by vcube on 2017/3/23.
  */
 
-public interface IUserLoginView {
+public interface UserLoginView {
 
     String getUserName();
 

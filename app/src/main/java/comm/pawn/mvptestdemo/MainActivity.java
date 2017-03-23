@@ -10,12 +10,12 @@ import android.widget.Toast;
 
 import comm.pawn.mvptestdemo.bean.User;
 import comm.pawn.mvptestdemo.presenter.UserLoginPresenter;
-import comm.pawn.mvptestdemo.view.IUserLoginView;
+import comm.pawn.mvptestdemo.view.UserLoginView;
 
 /**
  * 这个activity就相当于是view的实现类，，在MVP中View其实就是Activity
  */
-public class MainActivity extends AppCompatActivity implements IUserLoginView{
+public class MainActivity extends AppCompatActivity implements UserLoginView {
 
 
     private EditText user_name_id;

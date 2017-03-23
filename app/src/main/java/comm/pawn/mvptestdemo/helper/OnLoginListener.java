@@ -1,4 +1,4 @@
-package comm.pawn.mvptestdemo.biz;
+package comm.pawn.mvptestdemo.helper;
 
 import comm.pawn.mvptestdemo.bean.User;
 

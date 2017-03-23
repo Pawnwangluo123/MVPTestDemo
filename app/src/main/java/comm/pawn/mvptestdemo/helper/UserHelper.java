@@ -1,4 +1,4 @@
-package comm.pawn.mvptestdemo.biz;
+package comm.pawn.mvptestdemo.helper;
 
 import comm.pawn.mvptestdemo.bean.User;
 
@@ -7,7 +7,7 @@ import comm.pawn.mvptestdemo.bean.User;
  * Created by vcube on 2017/3/23.
  */
 
-public class UserBiz implements IUserBiz {
+public class UserHelper implements LoginHelper {
 
     @Override
     public void login(final String username, final String password, final OnLoginListener loginListener) {
