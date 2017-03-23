@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcube\.android\build-cache\73c7a74939370c20d477cccdb338338c0b8ee6ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\privite\MVPTestDemo\app\build\intermediates\pre-dexed\debug\classes_e6ae647fa8d1ac84adf06eb6ea1c819d82c2d528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcube\.android\build-cache\865e0bcae64fc71b9a82e1d4985fc7eecb38dc4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\privite\MVPTestDemo\app\build\intermediates\pre-dexed\debug\classes_4e758e3583e3dac258c3dcddad4f38cebb2819fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcube\.android\build-cache\a86e067e645a704e71ca70c04dbdc4f4f524d79f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\privite\MVPTestDemo\app\build\intermediates\pre-dexed\debug\classes_0daaa042bd844b11f3cad407461c512db5583a72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcube\.android\build-cache\149e29e40957b8a8298f6fb9b2bd1e60639ae51e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\privite\MVPTestDemo\app\build\intermediates\pre-dexed\debug\classes_f28a2a18a97ddb0b2a0c4faec0988fac43d9b4ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_Studio\android-sdk-windows\android-sdk-windows\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\privite\MVPTestDemo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_0fea1d63ecf305fafa52d218cdc92340ee53c415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcube\.android\build-cache\76c5ec3a711f6cfa9ad1689c34c52c2a5579b4ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\privite\MVPTestDemo\app\build\intermediates\pre-dexed\debug\classes_7c98fa68b869258921c37a4c874f371cc10c7655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcube\.android\build-cache\f96dd12799e3e3a9621152617ca2b246a945e98d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\privite\MVPTestDemo\app\build\intermediates\pre-dexed\debug\classes_bd4992b35a9e976cde80fbe05044e1403546af96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_Studio\android-sdk-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\privite\MVPTestDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_0b3a054d42db83332a1bad874d192e4019624050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcube\.android\build-cache\1fd9861d261f18e48c419bcf65ca2b550fdf1ab3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\privite\MVPTestDemo\app\build\intermediates\pre-dexed\debug\classes_a1c1edf2155d8f0bbcae5111aaf412d4b6f3e52d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcube\.android\build-cache\735b7288ad0e92e735693b0d784026ab10f702de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\privite\MVPTestDemo\app\build\intermediates\pre-dexed\debug\classes_6e3bdfc142f1aebbfdbe579b4626b4f929afce0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcube\.android\build-cache\667ff15c8bc2fa7384e421308b414311e2621925\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\privite\MVPTestDemo\app\build\intermediates\pre-dexed\debug\classes_9829816e022f02c6f5a23d52f15a4130b48cbe41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vcube\.android\build-cache\51dbe2007484986439c58b09c6af9826bba0d9c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\privite\MVPTestDemo\app\build\intermediates\pre-dexed\debug\classes_ad3944663d855cde276e9ce2c395557c53e729f8.jar" />
+    </item>
+
+</items>
